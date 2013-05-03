@@ -15,7 +15,7 @@
 #   limitations under the License.
 #
 install
-url --url=http://mirrors.kernel.org/centos/6/os/x86_64/
+url --url=http://ftp1.scientificlinux.org/linux/scientific/6x/x86_64/os/
 text
 lang en_US.UTF-8
 keyboard us
